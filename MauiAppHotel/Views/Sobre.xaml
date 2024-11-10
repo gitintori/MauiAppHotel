@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiAppHotel.Views.Sobre"
+             Title="Sobre"
+             NavigationPage.HasNavigationBar="False"
+             BackgroundColor="{StaticResource White}">
+    
+    <VerticalStackLayout Padding="10"
+                         VerticalOptions="Center">
+        <Label 
+            Text="Sobre Mim"
+            FontSize="25"
+            FontAttributes="Bold"
+            TextColor="{StaticResource Primary}"
+            HorizontalOptions="Center" />
+
+        <Label 
+            Text="Meu nome é Giovanna Tintori Barbosa e sou estudante de Desenvolvimento de Sistemas na ETEC."
+            FontSize="16"
+            TextColor="{StaticResource Gray600}"
+            HorizontalOptions="Center" 
+            Margin="0,50,0,0" 
+            />
+
+        <Label 
+            Text="Ano de Desenvolvimento: 2024"
+            FontSize="16"
+            TextColor="{StaticResource Gray600}"
+            HorizontalOptions="Center" 
+            Margin="20"/>
+
+        <Label 
+            Text="Este aplicativo foi desenvolvido usando .NET MAUI para colocar em prática o conteúdo da Agenda 13 de DSII"
+            FontSize="16"
+            TextColor="{StaticResource Primary}"
+            HorizontalOptions="Center" 
+            HorizontalTextAlignment="Center"
+            Margin="20"
+        />
+        
+    </VerticalStackLayout>
+</ContentPage>
