@@ -29,6 +29,18 @@ public partial class ContratacaoHospedagem : ContentPage
         
     }
 
+    private async void OnFotosButtonClicked(object sender, EventArgs e)
+    {
+        try
+        {
+            await Navigation.PushAsync(new FotosHotel());
+        }
+        catch (Exception ex)
+        {
+            await DisplayAlert("Ops", ex.Message, "OK");
+        }
+    }
+
     private async void OnSobreButtonClicked(object sender, EventArgs e)
     {
         try

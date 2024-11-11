@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\giova\\source\\repos\\MauiAppHotel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF17DD69-0C42-440B-8660-60576A426507}|MauiAppHotel\\MauiAppHotel.csproj|c:\\users\\giova\\source\\repos\\mauiapphotel\\mauiapphotel\\views\\contratacaohospedagem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF17DD69-0C42-440B-8660-60576A426507}|MauiAppHotel\\MauiAppHotel.csproj|solutionrelative:mauiapphotel\\views\\contratacaohospedagem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF17DD69-0C42-440B-8660-60576A426507}|MauiAppHotel\\MauiAppHotel.csproj|c:\\users\\giova\\source\\repos\\mauiapphotel\\mauiapphotel\\fotoshotel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FF17DD69-0C42-440B-8660-60576A426507}|MauiAppHotel\\MauiAppHotel.csproj|solutionrelative:mauiapphotel\\fotoshotel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF17DD69-0C42-440B-8660-60576A426507}|MauiAppHotel\\MauiAppHotel.csproj|c:\\users\\giova\\source\\repos\\mauiapphotel\\mauiapphotel\\views\\contratacaohospedagem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FF17DD69-0C42-440B-8660-60576A426507}|MauiAppHotel\\MauiAppHotel.csproj|solutionrelative:mauiapphotel\\views\\contratacaohospedagem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{FF17DD69-0C42-440B-8660-60576A426507}|MauiAppHotel\\MauiAppHotel.csproj|c:\\users\\giova\\source\\repos\\mauiapphotel\\mauiapphotel\\fotoshotel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF17DD69-0C42-440B-8660-60576A426507}|MauiAppHotel\\MauiAppHotel.csproj|solutionrelative:mauiapphotel\\fotoshotel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF17DD69-0C42-440B-8660-60576A426507}|MauiAppHotel\\MauiAppHotel.csproj|c:\\users\\giova\\source\\repos\\mauiapphotel\\mauiapphotel\\views\\hospedagemcontratada.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF17DD69-0C42-440B-8660-60576A426507}|MauiAppHotel\\MauiAppHotel.csproj|solutionrelative:mauiapphotel\\views\\hospedagemcontratada.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF17DD69-0C42-440B-8660-60576A426507}|MauiAppHotel\\MauiAppHotel.csproj|c:\\users\\giova\\source\\repos\\mauiapphotel\\mauiapphotel\\views\\hospedagemcontratada.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FF17DD69-0C42-440B-8660-60576A426507}|MauiAppHotel\\MauiAppHotel.csproj|solutionrelative:mauiapphotel\\views\\hospedagemcontratada.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ContratacaoHospedagem.xaml",
-              "DocumentMoniker": "C:\\Users\\giova\\source\\repos\\MauiAppHotel\\MauiAppHotel\\Views\\ContratacaoHospedagem.xaml",
-              "RelativeDocumentMoniker": "MauiAppHotel\\Views\\ContratacaoHospedagem.xaml",
-              "ToolTip": "C:\\Users\\giova\\source\\repos\\MauiAppHotel\\MauiAppHotel\\Views\\ContratacaoHospedagem.xaml",
-              "RelativeToolTip": "MauiAppHotel\\Views\\ContratacaoHospedagem.xaml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAA+AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "HospedagemContratada.xaml",
+              "DocumentMoniker": "C:\\Users\\giova\\source\\repos\\MauiAppHotel\\MauiAppHotel\\Views\\HospedagemContratada.xaml",
+              "RelativeDocumentMoniker": "MauiAppHotel\\Views\\HospedagemContratada.xaml",
+              "ToolTip": "C:\\Users\\giova\\source\\repos\\MauiAppHotel\\MauiAppHotel\\Views\\HospedagemContratada.xaml",
+              "RelativeToolTip": "MauiAppHotel\\Views\\HospedagemContratada.xaml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-11T01:14:26.522Z",
+              "WhenOpened": "2024-11-11T03:27:31.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HospedagemContratada.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\source\\repos\\MauiAppHotel\\MauiAppHotel\\Views\\HospedagemContratada.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppHotel\\Views\\HospedagemContratada.xaml.cs",
+              "ToolTip": "C:\\Users\\giova\\source\\repos\\MauiAppHotel\\MauiAppHotel\\Views\\HospedagemContratada.xaml.cs",
+              "RelativeToolTip": "MauiAppHotel\\Views\\HospedagemContratada.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:26:53.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FotosHotel.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\source\\repos\\MauiAppHotel\\MauiAppHotel\\FotosHotel.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppHotel\\FotosHotel.xaml.cs",
+              "ToolTip": "C:\\Users\\giova\\source\\repos\\MauiAppHotel\\MauiAppHotel\\FotosHotel.xaml.cs",
+              "RelativeToolTip": "MauiAppHotel\\FotosHotel.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA5wB8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:52:39.024Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ContratacaoHospedagem.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\giova\\source\\repos\\MauiAppHotel\\MauiAppHotel\\Views\\ContratacaoHospedagem.xaml.cs",
-              "RelativeDocumentMoniker": "MauiAppHotel\\Views\\ContratacaoHospedagem.xaml.cs",
-              "ToolTip": "C:\\Users\\giova\\source\\repos\\MauiAppHotel\\MauiAppHotel\\Views\\ContratacaoHospedagem.xaml.cs",
-              "RelativeToolTip": "MauiAppHotel\\Views\\ContratacaoHospedagem.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T01:10:30.289Z",
+              "Title": "FotosHotel.xaml",
+              "DocumentMoniker": "C:\\Users\\giova\\source\\repos\\MauiAppHotel\\MauiAppHotel\\FotosHotel.xaml",
+              "RelativeDocumentMoniker": "MauiAppHotel\\FotosHotel.xaml",
+              "ToolTip": "C:\\Users\\giova\\source\\repos\\MauiAppHotel\\MauiAppHotel\\FotosHotel.xaml",
+              "RelativeToolTip": "MauiAppHotel\\FotosHotel.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-11T02:52:24.101Z",
               "EditorCaption": ""
             }
           ]

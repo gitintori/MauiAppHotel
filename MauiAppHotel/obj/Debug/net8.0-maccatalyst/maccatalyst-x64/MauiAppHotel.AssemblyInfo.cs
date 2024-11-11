@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MauiAppHotel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+4a69bbe4175441776d0da3a3e536d8a408193e2d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+713e41c34e503d0b2398f3a185ff52c739732be5")]
 [assembly: System.Reflection.AssemblyProductAttribute("MauiAppHotel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MauiAppHotel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

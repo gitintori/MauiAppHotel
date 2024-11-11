@@ -57,15 +57,28 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <Compile Remove="Component1.cs" />
+	  <Compile Remove="Component1.Designer.cs" />
+	  <Compile Remove="NewPage1.xaml.cs" />
 	  <Compile Remove="Views\NewPage1.xaml.cs" />
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiImage Remove="Resources\Images\suiteeconomica.webp" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiXaml Remove="NewPage1.xaml" />
 	  <MauiXaml Remove="Views\NewPage1.xaml" />
 	</ItemGroup>
 
 	<ItemGroup>
 	  <None Remove="Resources\Fonts\CodeFont-Regular.ttf" />
+	  <None Remove="Resources\Images\suiteeconomica.jpg" />
+	  <None Remove="Resources\Images\suiteeconomica.webp" />
+	  <None Remove="Resources\Images\suiteluxo.jpg" />
+	  <None Remove="Resources\Images\suitesingle.jpg" />
+	  <None Remove="Resources\Images\suitesuperluxo.jpg" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -75,6 +88,9 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiXaml Update="FotosHotel.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Views\ContratacaoHospedagem.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>

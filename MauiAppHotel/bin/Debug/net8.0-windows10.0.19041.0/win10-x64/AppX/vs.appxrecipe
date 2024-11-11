@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-11-11T01:29:57.348</Modified>
+      <Modified>2024-11-11T03:39:18.928</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-11-11T01:13:41.382</Modified>
+      <Modified>2024-11-11T03:39:18.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiAppHotel.runtimeconfig.json">
       <PackagePath>MauiAppHotel.runtimeconfig.json</PackagePath>
-      <Modified>2024-10-30T16:45:51.532</Modified>
+      <Modified>2024-11-11T03:10:25.861</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiAppHotel.dll">
       <PackagePath>MauiAppHotel.dll</PackagePath>
-      <Modified>2024-11-11T01:29:56.331</Modified>
+      <Modified>2024-11-11T03:39:17.307</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MauiAppHotel.exe</PackagePath>
-      <Modified>2024-11-11T01:29:56.375</Modified>
+      <Modified>2024-11-11T03:39:17.365</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -55,23 +55,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-10-30T16:30:52.016</Modified>
+      <Modified>2024-11-11T03:05:48.850</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-10-30T16:30:52.031</Modified>
+      <Modified>2024-11-11T03:05:48.871</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-10-30T16:30:52.058</Modified>
+      <Modified>2024-11-11T03:05:48.910</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-10-30T16:30:52.096</Modified>
+      <Modified>2024-11-11T03:05:48.986</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-10-30T16:30:52.241</Modified>
+      <Modified>2024-11-11T03:05:49.231</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\CodeFont-Regular.ttf">
       <PackagePath>CodeFont-Regular.ttf</PackagePath>
@@ -87,211 +87,227 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-10-30T16:30:53.840</Modified>
+      <Modified>2024-11-11T03:37:56.732</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.833</Modified>
+      <Modified>2024-11-11T03:37:56.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.833</Modified>
+      <Modified>2024-11-11T03:37:56.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.833</Modified>
+      <Modified>2024-11-11T03:37:56.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.833</Modified>
+      <Modified>2024-11-11T03:37:56.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.833</Modified>
+      <Modified>2024-11-11T03:37:56.723</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.838</Modified>
+      <Modified>2024-11-11T03:37:56.730</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.838</Modified>
+      <Modified>2024-11-11T03:37:56.728</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.837</Modified>
+      <Modified>2024-11-11T03:37:56.728</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.837</Modified>
+      <Modified>2024-11-11T03:37:56.728</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.837</Modified>
+      <Modified>2024-11-11T03:37:56.728</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.839</Modified>
+      <Modified>2024-11-11T03:37:56.730</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.838</Modified>
+      <Modified>2024-11-11T03:37:56.730</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.838</Modified>
+      <Modified>2024-11-11T03:37:56.730</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.838</Modified>
+      <Modified>2024-11-11T03:37:56.730</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.838</Modified>
+      <Modified>2024-11-11T03:37:56.730</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.840</Modified>
+      <Modified>2024-11-11T03:37:56.731</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.840</Modified>
+      <Modified>2024-11-11T03:37:56.731</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.840</Modified>
+      <Modified>2024-11-11T03:37:56.731</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.840</Modified>
+      <Modified>2024-11-11T03:37:56.731</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.840</Modified>
+      <Modified>2024-11-11T03:37:56.731</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.840</Modified>
+      <Modified>2024-11-11T03:37:56.731</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.839</Modified>
+      <Modified>2024-11-11T03:37:56.731</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.839</Modified>
+      <Modified>2024-11-11T03:37:56.730</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.839</Modified>
+      <Modified>2024-11-11T03:37:56.731</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.839</Modified>
+      <Modified>2024-11-11T03:37:56.731</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.835</Modified>
+      <Modified>2024-11-11T03:37:56.726</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.835</Modified>
+      <Modified>2024-11-11T03:37:56.726</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.835</Modified>
+      <Modified>2024-11-11T03:37:56.726</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.835</Modified>
+      <Modified>2024-11-11T03:37:56.726</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.834</Modified>
+      <Modified>2024-11-11T03:37:56.726</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.836</Modified>
+      <Modified>2024-11-11T03:37:56.727</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.836</Modified>
+      <Modified>2024-11-11T03:37:56.727</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.836</Modified>
+      <Modified>2024-11-11T03:37:56.727</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.836</Modified>
+      <Modified>2024-11-11T03:37:56.727</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.835</Modified>
+      <Modified>2024-11-11T03:37:56.727</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.837</Modified>
+      <Modified>2024-11-11T03:37:56.728</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.837</Modified>
+      <Modified>2024-11-11T03:37:56.728</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.837</Modified>
+      <Modified>2024-11-11T03:37:56.728</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.837</Modified>
+      <Modified>2024-11-11T03:37:56.728</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.836</Modified>
+      <Modified>2024-11-11T03:37:56.727</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.834</Modified>
+      <Modified>2024-11-11T03:37:56.726</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.834</Modified>
+      <Modified>2024-11-11T03:37:56.726</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.834</Modified>
+      <Modified>2024-11-11T03:37:56.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.834</Modified>
+      <Modified>2024-11-11T03:37:56.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.833</Modified>
+      <Modified>2024-11-11T03:37:56.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.841</Modified>
+      <Modified>2024-11-11T03:37:56.732</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.841</Modified>
+      <Modified>2024-11-11T03:37:56.732</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.841</Modified>
+      <Modified>2024-11-11T03:37:56.732</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.841</Modified>
+      <Modified>2024-11-11T03:37:56.732</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-10-30T16:30:53.841</Modified>
+      <Modified>2024-11-11T03:37:56.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\suiteeconomica.scale-100.jpg">
+      <PackagePath>suiteeconomica.scale-100.jpg</PackagePath>
+      <Modified>2024-11-11T03:37:56.723</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\suiteluxo.scale-100.jpg">
+      <PackagePath>suiteluxo.scale-100.jpg</PackagePath>
+      <Modified>2024-11-11T03:37:56.723</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\suitesingle.scale-100.jpg">
+      <PackagePath>suitesingle.scale-100.jpg</PackagePath>
+      <Modified>2024-11-11T03:37:56.723</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\suitesuperluxo.scale-100.jpg">
+      <PackagePath>suitesuperluxo.scale-100.jpg</PackagePath>
+      <Modified>2024-11-11T03:37:56.723</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiAppHotel.deps.json">
       <PackagePath>MauiAppHotel.deps.json</PackagePath>
-      <Modified>2024-11-11T01:13:41.044</Modified>
+      <Modified>2024-11-11T03:39:18.469</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.44\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
