@@ -9,11 +9,24 @@ public partial class ContratacaoHospedagem : ContentPage
 
     private async void OnAvancarButtonClicked(object sender, EventArgs e)
     {
-        await Navigation.PushAsync(new HospedagemContratada());
+        try
+        {
+            await Navigation.PushAsync(new HospedagemContratada());
+        } catch (Exception ex) {
+            await DisplayAlert("Ops", ex.Message, "OK");
+        }
+        
     }
 
     private async void OnSobreButtonClicked(object sender, EventArgs e)
     {
-        await Navigation.PushAsync(new Sobre());
+        try
+        {
+            await Navigation.PushAsync(new Sobre());
+        }
+        catch (Exception ex)
+        {
+            await DisplayAlert("Ops", ex.Message, "OK");
+        }
     }
 }

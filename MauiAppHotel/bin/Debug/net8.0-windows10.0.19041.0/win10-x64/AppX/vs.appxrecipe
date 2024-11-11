@@ -29,7 +29,7 @@
     <AppXManifest Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-11-01T19:16:00.261</Modified>
+      <Modified>2024-11-10T23:20:59.495</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiAppHotel.dll">
       <PackagePath>MauiAppHotel.dll</PackagePath>
-      <Modified>2024-11-01T19:15:58.830</Modified>
+      <Modified>2024-11-10T23:20:58.907</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MauiAppHotel.exe</PackagePath>
-      <Modified>2024-11-01T19:15:58.917</Modified>
+      <Modified>2024-11-10T23:20:58.916</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
