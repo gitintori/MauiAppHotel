@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-11-10T23:20:59.495</Modified>
+      <Modified>2024-11-11T01:29:57.348</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-10-30T16:45:51.809</Modified>
+      <Modified>2024-11-11T01:13:41.382</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiAppHotel.runtimeconfig.json">
       <PackagePath>MauiAppHotel.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiAppHotel.dll">
       <PackagePath>MauiAppHotel.dll</PackagePath>
-      <Modified>2024-11-10T23:20:58.907</Modified>
+      <Modified>2024-11-11T01:29:56.331</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MauiAppHotel.exe</PackagePath>
-      <Modified>2024-11-10T23:20:58.916</Modified>
+      <Modified>2024-11-11T01:29:56.375</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -291,7 +291,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\source\repos\MauiAppHotel\MauiAppHotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiAppHotel.deps.json">
       <PackagePath>MauiAppHotel.deps.json</PackagePath>
-      <Modified>2024-10-30T16:45:51.356</Modified>
+      <Modified>2024-11-11T01:13:41.044</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\giova\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.44\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
